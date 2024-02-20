@@ -21,7 +21,8 @@ a curated list of awesome lakehouse frameworks, applications, etc
 
 - [Amoro](https://github.com/NetEase/amoro) [Java] - a management system built on open data lake formats, bringing pluggable and self-managed features for Lakehouse.
 - [LakeSoul](https://github.com/lakesoul-io/LakeSoul) [Rust] - a cloud-native Lakehouse framework that supports scalable metadata management, ACID transactions, efficient and flexible upsert operation, schema evolution, and unified streaming & batch processing.
-- [Lakehouse Engine](https://github.com/adidas/lakehouse-engine) [Python] - A configuration driven Spark framework, written in Python, serving as a scalable and distributed engine for several lakehouse algorithms, data flows and utilities for Data Products.
+- [Lakehouse Engine](https://github.com/adidas/lakehouse-engine) [Python] - a configuration driven Spark framework, written in Python, serving as a scalable and distributed engine for several lakehouse algorithms, data flows and utilities for Data Products.
+- [Smart Data Lake](https://github.com/smart-data-lake/smart-data-lake) [Scala] - a data lake automation framework that makes loading and transforming data a breeze. 
 
 ### Catalog
 
