@@ -25,6 +25,7 @@ a curated list of awesome lakehouse frameworks, applications, etc
 
 ### Catalog
 
+- [DeltaCAT](https://github.com/ray-project/deltacat) [Python] - a Pythonic Data Catalog powered by Ray.
 - [Gravitino](https://github.com/datastrato/gravitino) [Java] - a high-performance, geo-distributed, and federated metadata lake.
 - [lakeFS](https://github.com/treeverse/lakeFS) [Go] - data version control for data lake.
 - [Nessie](https://github.com/projectnessie/nessie) [Java] - a Transactional Catalog for Data Lakes with Git-like semantics.
