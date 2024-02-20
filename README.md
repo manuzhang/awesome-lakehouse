@@ -36,3 +36,4 @@ a curated list of awesome lakehouse frameworks, applications, etc
 ### Benchmark
 
 - [LHBench](https://github.com/lhbench/lhbench) [Scala] - a benchmark for Lakehouse storage systems.
+- [LST-Bench](https://github.com/microsoft/lst-bench) [Java] - a framework that allows users to run benchmarks specifically designed for evaluating the performance, efficiency, and stability of Log-Structured Tables (LSTs).
