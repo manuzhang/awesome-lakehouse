@@ -1,5 +1,5 @@
 # awesome-lakehouse
-a curated list of awesome lakehouse frameworks, applications, etc
+a curated list of awesome [Lakehouse](https://www.databricks.com/sites/default/files/2020/12/cidr_lakehouse.pdf) frameworks, applications, etc
 
 ## Table of Contents
 
