@@ -5,7 +5,7 @@ a curated list of awesome [Lakehouse](https://www.databricks.com/sites/default/f
 
 - [Table Format](#table-format)
 - [Lakehouse System](#lakehouse-system)
-- [Catalog Service](#catalog-service)
+- [Metadata Service](#metadata-service)
 - [Machine Learning](#machine-learning)
 - [Benchmark](#benchmark)
 
@@ -25,13 +25,14 @@ a curated list of awesome [Lakehouse](https://www.databricks.com/sites/default/f
 - [Lakehouse Engine](https://github.com/adidas/lakehouse-engine) [Python] - a configuration driven Spark framework, written in Python, serving as a scalable and distributed engine for several lakehouse algorithms, data flows and utilities for Data Products.
 - [Smart Data Lake](https://github.com/smart-data-lake/smart-data-lake) [Scala] - a data lake automation framework that makes loading and transforming data a breeze. 
 
-### Catalog Service
+### Metadata Service
 
 - [DeltaCAT](https://github.com/ray-project/deltacat) [Python] - a Pythonic Data Catalog powered by Ray.
 - [Gravitino](https://github.com/datastrato/gravitino) [Java] - a high-performance, geo-distributed, and federated metadata lake.
 - [lakeFS](https://github.com/treeverse/lakeFS) [Go] - data version control for data lake.
+- [Metacat](https://github.com/Netflix/metacat) [Java] - a unified metadata exploration API service.
 - [Nessie](https://github.com/projectnessie/nessie) [Java] - a Transactional Catalog for Data Lakes with Git-like semantics.
-- [OpenHouse](https://github.com/linkedin/openhouse) [Java] - an open source control plane designed for efficient management of tables within open data lakehouse deployments
+- [OpenHouse](https://github.com/linkedin/openhouse) [Java] - an open source control plane designed for efficient management of tables within open data lakehouse deployments.
 
 ### Machine Learning
 
