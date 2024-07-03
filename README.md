@@ -27,8 +27,8 @@ a curated list of awesome [Lakehouse](https://www.databricks.com/sites/default/f
 
 ### Metadata Service
 
+- [Apache Gravitino](https://github.com/apache/gravitino) [Java] - a high-performance, geo-distributed, and federated metadata lake.
 - [DeltaCAT](https://github.com/ray-project/deltacat) [Python] - a Pythonic Data Catalog powered by Ray.
-- [Gravitino](https://github.com/datastrato/gravitino) [Java] - a high-performance, geo-distributed, and federated metadata lake.
 - [lakeFS](https://github.com/treeverse/lakeFS) [Go] - data version control for data lake.
 - [Metacat](https://github.com/Netflix/metacat) [Java] - a unified metadata exploration API service.
 - [Nessie](https://github.com/projectnessie/nessie) [Java] - a Transactional Catalog for Data Lakes with Git-like semantics.
