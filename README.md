@@ -33,6 +33,7 @@ a curated list of awesome [Lakehouse](https://www.databricks.com/sites/default/f
 - [Metacat](https://github.com/Netflix/metacat) [Java] - a unified metadata exploration API service.
 - [Nessie](https://github.com/projectnessie/nessie) [Java] - a Transactional Catalog for Data Lakes with Git-like semantics.
 - [OpenHouse](https://github.com/linkedin/openhouse) [Java] - an open source control plane designed for efficient management of tables within open data lakehouse deployments.
+- [Polaris](https://github.com/polaris-catalog/polaris) [Java] - The interoperable, open source catalog for Apache Iceberg
 - [UnityCatalog](https://github.com/unitycatalog/unitycatalog) [Java] - an open and interoperable catalog for data and AI
 
 ### Machine Learning
