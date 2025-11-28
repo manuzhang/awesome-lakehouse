@@ -27,7 +27,6 @@ a curated list of awesome [Lakehouse](https://www.databricks.com/sites/default/f
 - [LakeSoul](https://github.com/lakesoul-io/LakeSoul) [Rust] - a cloud-native Lakehouse framework that supports scalable metadata management, ACID transactions, efficient and flexible upsert operation, schema evolution, and unified streaming & batch processing.
 - [Lakehouse Engine](https://github.com/adidas/lakehouse-engine) [Python] - a configuration driven Spark framework, written in Python, serving as a scalable and distributed engine for several lakehouse algorithms, data flows and utilities for Data Products.
 - [Smart Data Lake](https://github.com/smart-data-lake/smart-data-lake) [Scala] - a data lake automation framework that makes loading and transforming data a breeze.
-- [TrinityLake](https://github.com/trinitylake-io/trinitylake) [Java] - Open LakeHouse Format for Big Data Analytics, ML & AI.
 
 ### Metadata Service
 
