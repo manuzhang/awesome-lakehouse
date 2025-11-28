@@ -28,6 +28,10 @@ a curated list of awesome [Lakehouse](https://www.databricks.com/sites/default/f
 - [Lakehouse Engine](https://github.com/adidas/lakehouse-engine) [Python] - a configuration driven Spark framework, written in Python, serving as a scalable and distributed engine for several lakehouse algorithms, data flows and utilities for Data Products.
 - [Smart Data Lake](https://github.com/smart-data-lake/smart-data-lake) [Scala] - a data lake automation framework that makes loading and transforming data a breeze.
 
+### Data Ingestion
+
+- [Moonlink](https://github.com/Mooncake-Labs/moonlink) [Rust] - managed ingestion engine for Apache Iceberg.
+
 ### Metadata Service
 
 - [Apache Gravitino](https://github.com/apache/gravitino) [Java] - a high-performance, geo-distributed, and federated metadata lake.
