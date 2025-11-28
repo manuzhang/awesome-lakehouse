@@ -17,6 +17,7 @@ a curated list of awesome [Lakehouse](https://www.databricks.com/sites/default/f
 - [Apache Paimon (incubating)](https://github.com/apache/incubator-paimon) [Java] - a streaming data lake platform with high-speed data ingestion, changelog tracking and efficient real-time analytics.
 - [Apache XTable (incubating)](https://github.com/apache/incubator-xtable) [Java] - a cross-table converter for table formats that facilitates omni-directional interoperability across data processing systems and query engines.
 - [Delta](https://github.com/delta-io/delta/) [Scala] - an open-source storage framework that enables building a Lakehouse architecture with various compute engines and languages.
+- [Lance](https://github.com/lance-format/lance) [Rust] - Open Lakehouse Format for Multimodal AI.
 - [table-formats-tlaplus](https://github.com/Vanlightly/table-formats-tlaplus) [TLA] - TLA+ specs for table formats.
 
 ### Lakehouse System
