@@ -30,6 +30,7 @@ a curated list of awesome [Lakehouse](https://www.databricks.com/sites/default/f
 
 ### Data Ingestion
 
+- [ingestr](https://github.com/bruin-data/ingestr) [Python] - CLI tool to copy data between any source and destination with a single command. Supports 50+ connectors including databases, SaaS apps, and data warehouses like BigQuery, Snowflake, and Databricks.
 - [Moonlink](https://github.com/Mooncake-Labs/moonlink) [Rust] - managed ingestion engine for Apache Iceberg.
 
 ### Metadata Service
