@@ -36,14 +36,18 @@ a curated list of awesome [Lakehouse](https://www.databricks.com/sites/default/f
 ### Metadata Service
 
 - [Apache Gravitino](https://github.com/apache/gravitino) [Java] - a high-performance, geo-distributed, and federated metadata lake.
-- [Apache Polaris (incubating)](https://github.com/apache/polaris) [Java] - The interoperable, open source catalog for Apache Iceberg
+- [Apache Polaris (incubating)](https://github.com/apache/polaris) [Java] - The interoperable, open source catalog for Apache Iceberg.
 - [DeltaCAT](https://github.com/ray-project/deltacat) [Python] - a Pythonic Data Catalog powered by Ray.
 - [lakeFS](https://github.com/treeverse/lakeFS) [Go] - data version control for data lake.
 - [Lakekeeper](https://github.com/lakekeeper/lakekeeper) [Rust] - A Rust native Iceberg REST Catalog.
 - [Metacat](https://github.com/Netflix/metacat) [Java] - a unified metadata exploration API service.
 - [Nessie](https://github.com/projectnessie/nessie) [Java] - a Transactional Catalog for Data Lakes with Git-like semantics.
 - [OpenHouse](https://github.com/linkedin/openhouse) [Java] - an open source control plane designed for efficient management of tables within open data lakehouse deployments.
-- [UnityCatalog](https://github.com/unitycatalog/unitycatalog) [Java] - an open and interoperable catalog for data and AI
+- [UnityCatalog](https://github.com/unitycatalog/unitycatalog) [Java] - an open and interoperable catalog for data and AI.
+
+### Observability
+
+- [Nimtable](https://github.com/nimtable/nimtable) [TypeScript] - The observability platform for Iceberg lakehouses.
 
 ### Machine Learning
 
